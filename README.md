@@ -26,7 +26,7 @@ Follow these steps to set up and run the project:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-repo-url>.git
+git clone https://github.com/esplanadeai/call-control-V2.git
 ```
 
 ### 2. Navigate to the Project Directory
