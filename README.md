@@ -1,6 +1,6 @@
 # API Live Call Control Framework
 
-This project demonstrates the use of VAPI's live call control features to monitor and interact with ongoing calls in real time. The framework enables users to listen to live calls and inject prompts or commands to the assistant without interrupting the call flow. For the #BuildWithVapi challenge, additional features and UI were implemented, including: Say Message, Add Message to Conversation, Assistant Control (mute/unmute, say first message), and End Call.
+This project demonstrates the use of VAPI live call control features to monitor and interact with ongoing calls in real time. The framework enables users to listen to live calls and inject prompts or commands to the assistant without interrupting the call flow. For the #BuildWithVapi challenge, additional features and UI were implemented, including: Say Message, Add Message to Conversation, Assistant Control (mute/unmute, say first message), and End Call.
 
 The implementation leverages browser-based audio processing (using AudioWorkletProcessor) for streaming and playback. The call control interface allows for dynamic message injection, assistant muting, and call termination, making it suitable for both experimentation (e.g., testing assistant behaviors, rapid iteration) and creative use cases (such as orchestrating or modifying live call interactions with friends or test users).
 
