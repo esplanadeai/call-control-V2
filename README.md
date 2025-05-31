@@ -32,12 +32,20 @@ git clone https://github.com/esplanadeai/call-control-V2.git
 
 ### 2. Navigate to the Project Directory
 ```bash
-cd BWV-CALL-CONTROL
+cd call-control-V2
 ```
 
 ### 3. Install Dependencies
+Install dependencies for both the server and client:
+
 ```bash
+# Install server dependencies
 npm install
+
+# Install client dependencies
+cd client
+npm install
+cd ..
 ```
 
 ### 4. Configure the Project
