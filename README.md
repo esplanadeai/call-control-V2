@@ -131,18 +131,7 @@ BWV-CALL-CONTROL/
 - Real-time call status polling
 - WebSocket audio streaming
 - RESTful API endpoints for call control
-
-![1](https://github.com/user-attachments/assets/b87bacb2-96bc-4fa6-b9d4-3668f502c919)
-
-- Input fields Number + Customer Name-
-- When a call is answered by the distination the listen URL is available - hit OK.
-
-![2](https://github.com/user-attachments/assets/a3736624-8a12-4004-adb4-b971972245af)
-
 - Enjoy the call control features and prank your friends or use for voice agent debugging and testing.
-
-![3](https://github.com/user-attachments/assets/edb75c18-cd2d-46b7-bdb9-4c0098b5de99)
-
 
 ---
 
