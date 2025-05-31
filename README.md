@@ -101,22 +101,25 @@ BWV-CALL-CONTROL/
 - Open your browser and navigate to `http://localhost:3000` (development) or `http://localhost:8080` (production)
 - Use the modern React interface to initiate, monitor, and control live calls
 
-![1](https://github.com/user-attachments/assets/b87bacb2-96bc-4fa6-b9d4-3668f502c919)
+![1](https://github.com/user-attachments/assets/9ecee28b-064e-456f-89e4-142c2b514cd5)
 
 - Input phone number and customer name to initiate calls
-- When a call is answered, the listen URL becomes available - click "Start Listening"
+- When a call is answered, the listen URL becomes available - and the control panel is displayed.
 
-![2](https://github.com/user-attachments/assets/a3736624-8a12-4004-adb4-b971972245af)
+![2](https://github.com/user-attachments/assets/029b6d24-d6c9-42cf-be24-366b6db7d411)
 
 - Use advanced call control features: Say Message, Add to Conversation, Transfer Call, Mute/Unmute, End Call
 
-![3](https://github.com/user-attachments/assets/edb75c18-cd2d-46b7-bdb9-4c0098b5de99)
+![3](https://github.com/user-attachments/assets/2162db28-38b2-45c4-9736-f61a77bd151b)
+
+![4](https://github.com/user-attachments/assets/6dce99d0-bf64-4e43-bd5c-6aa23f67c80b)
 
 ---
 
 ## Technical Details
 
 ### Architecture
+
 - **Frontend**: React 18 with modern hooks and component architecture
 - **Backend**: Express.js server with integrated Vapi API functions
 - **Audio Processing**: WebSocket streaming with AudioWorkletProcessor
